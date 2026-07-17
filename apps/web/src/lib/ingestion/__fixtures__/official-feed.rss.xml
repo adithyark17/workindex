@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Example Corporation Newsroom</title>
+    <item>
+      <guid>news-2026-07-01</guid>
+      <title>Example Corporation opens new technology centre in Hyderabad</title>
+      <link>https://news.example.com/india/hyderabad-centre?utm_source=rss</link>
+      <pubDate>Wed, 01 Jul 2026 09:00:00 GMT</pubDate>
+      <description><![CDATA[The company plans to hire engineering and data teams.]]></description>
+    </item>
+    <item>
+      <guid>news-2026-07-09</guid>
+      <title>Example Corporation expands Bengaluru engineering team</title>
+      <link>https://news.example.com/india/bengaluru-expansion</link>
+      <pubDate>Thu, 09 Jul 2026 10:15:00 GMT</pubDate>
+      <description>New platform and cybersecurity roles are planned.</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Example Corporation Updates</title>
+  <entry>
+    <id>tag:news.example.com,2026:leadership-1</id>
+    <title>Example Corporation appoints India GCC leader in Pune</title>
+    <link rel="alternate" href="https://news.example.com/india/pune-leader" />
+    <updated>2026-07-12T06:00:00Z</updated>
+    <summary>A new site leader will oversee the Pune engineering centre.</summary>
+  </entry>
+</feed>

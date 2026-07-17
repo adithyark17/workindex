@@ -1,0 +1,32 @@
+{
+  "jobs": [
+    {
+      "id": 71001,
+      "title": "Sr. Software Engineer - Bengaluru",
+      "absolute_url": "https://job-boards.greenhouse.io/acme/jobs/71001?utm_source=fixture",
+      "updated_at": "2026-07-15T08:30:00Z",
+      "location": { "name": "Bangalore, Karnataka, India (Hybrid)" },
+      "content": "<![CDATA[<p>Build reliable platform services for the India engineering centre.</p>]]>"
+    },
+    {
+      "id": 71002,
+      "title": "Machine Learning Engineer",
+      "absolute_url": "https://job-boards.greenhouse.io/acme/jobs/71002",
+      "updated_at": "2026-07-15T09:00:00Z",
+      "location": { "name": "Hyderabad, India" },
+      "content": "<p>Develop ranking and forecasting systems.</p>"
+    },
+    {
+      "id": 71003,
+      "title": "Product Manager",
+      "absolute_url": "https://job-boards.greenhouse.io/acme/jobs/71003",
+      "updated_at": "not-a-date",
+      "location": { "name": "Remote - India" },
+      "content": "<p>Own internal developer workflows.</p>"
+    },
+    {
+      "title": "Incomplete fixture",
+      "location": { "name": "Pune, India" }
+    }
+  ]
+}
